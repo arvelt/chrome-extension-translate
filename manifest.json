@@ -1,0 +1,17 @@
+{
+  "name": "Goggle Transelate",
+  "description": "A shorcut of google transelate",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://translate.google.co.jp/"
+    ],
+    "launch": {
+      "web_url": "https://translate.google.co.jp/"
+    }
+  }
+}
