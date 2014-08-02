@@ -1,3 +1,7 @@
+Chrome extension, for google transelate.
+---
+A shortcut for google transelate web page. In Chfomr apps.
+
 Install
 ---
 git clone https://github.com/arvelt/chrome-extension-translate.git  
