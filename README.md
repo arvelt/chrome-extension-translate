@@ -1,6 +1,6 @@
 Chrome extension, for google transelate.
 ---
-A shortcut for google transelate web page. In Chfomr apps.
+A shortcut for google transelate web page. In Chrome apps.
 
 Install
 ---
